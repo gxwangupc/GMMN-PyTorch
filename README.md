@@ -1,7 +1,7 @@
 # Generative Moment Matching Networks(GMMN)
 -------------------------------------------------
 ## Introduction
- * The code is widely adapted from the two nice repositories:<br>
+ * The code is widely adapted from two nice repositories:<br>
 <https://github.com/Abhipanda4/GMMN-Pytorch> <br>
 <https://github.com/siddharth-agrawal/Generative-Moment-Matching-Networks>. <br>
  * I failed to implement the greedy layer-wise pretraining and fine-tuning scheme mentioned in the paper as I have not fully understood it.
