@@ -9,7 +9,7 @@
 ## Environment & Requirements
 * CentOS Linux release 7.2.1511 (Core)<br>
 * python 3.6.5<br>
-* torch  1.0.0<br>
+* pytorch  1.0.0<br>
 * torchvision<br>
 * argparse<br>
 * pickle
