@@ -19,7 +19,7 @@
 ## Usage
 ### 1. Train the networks using MNIST:<br>
     python train.py
-Two folders will be created, i.e., data & models. As their names imply, they are used to store data and trained models, repectively. 
+Two folders will be created, i.e., `./data` & `./models`. As their names imply, they are used to store data and trained models, repectively. 
 ### 2. Visualize the outputs of the gmmn:  <br>
     python Visualize.py --visualize gmmn
 ### 3. Visualize the outputs of the autoencoder:  
